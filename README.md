@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PixelTim
 - 👀 I’m interested in pixel art, 2D games, procedural generation algorythms, 
 - 🌱 I’m currently learning chiptune(2A03 chip)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I played 900 hours of Terraria
 
 <!---
